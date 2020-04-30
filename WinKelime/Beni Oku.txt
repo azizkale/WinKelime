@@ -1,0 +1,1 @@
+WinKelime Kalsörünü doðrudan C ye kopyalayýp klasörün içindeki WinKelime.sln ikonuna týklandýðýnda proje visual studio ile açýlacaktýr.
