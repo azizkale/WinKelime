@@ -1,0 +1,97 @@
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Form1.resources
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Properties.Resources.resources
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csproj.GenerateResource.Cache
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\WinKelime\WinKelime\bin\Debug\WinKelime.exe
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\WinKelime\WinKelime\bin\Debug\WinKelime.pdb
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\WinKelime\WinKelime\obj\x86\Debug\WinKelime.pdb
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.pdb
+C:\Users\Sony\Desktop\WinKelime\WinKelime\bin\Debug\WinKelime.exe
+C:\Users\Sony\Desktop\WinKelime\WinKelime\bin\Debug\WinKelime.pdb
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Form1.resources
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Properties.Resources.resources
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csproj.GenerateResource.Cache
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.TasiyiciForm.resources
+D:\C#\Projeler [by a.kale]\Kelimelik\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe
+D:\C#\Projeler [by a.kale]\Kelimelik\WinKelime\WinKelime\obj\x86\Debug\WinKelime.pdb
+D:\C#\Projeler [by a.kale]\Kelimelik\WinKelime\WinKelime\bin\Debug\WinKelime.exe
+D:\C#\Projeler [by a.kale]\Kelimelik\WinKelime\WinKelime\bin\Debug\WinKelime.pdb
+D:\C#\Projeler [by a.kale]\Kelimelik\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csprojResolveAssemblyReference.cache
+D:\C#\Projeler [by a.kale]\Kelimelik\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Form1.resources
+D:\C#\Projeler [by a.kale]\Kelimelik\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Properties.Resources.resources
+D:\C#\Projeler [by a.kale]\Kelimelik\WinKelime\WinKelime\obj\x86\Debug\WinKelime.TasiyiciForm.resources
+D:\C#\Projeler [by a.kale]\Kelimelik\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csproj.GenerateResource.Cache
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.GirisSayfasi.resources
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.YeniKullaniciForm.resources
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\WinKelime\WinKelime\bin\Debug\WinKelime.exe.manifest
+C:\Users\Sony\Desktop\WinKelime\WinKelime\bin\Debug\WinKelime.application
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe.manifest
+C:\Users\Sony\Desktop\WinKelime\WinKelime\obj\x86\Debug\WinKelime.application
+C:\Users\Sony\Desktop\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe
+C:\Users\Sony\Desktop\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.pdb
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.pdb
+D:\oyunproje\WinKelime\WinKelime\bin\Debug\WinKelime.exe.manifest
+D:\oyunproje\WinKelime\WinKelime\bin\Debug\WinKelime.application
+D:\oyunproje\WinKelime\WinKelime\bin\Debug\WinKelime.exe
+D:\oyunproje\WinKelime\WinKelime\bin\Debug\WinKelime.pdb
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csprojResolveAssemblyReference.cache
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Form1.resources
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.GirisSayfasi.resources
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Properties.Resources.resources
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.TasiyiciForm.resources
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.YeniKullaniciForm.resources
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csproj.GenerateResource.Cache
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe.manifest
+D:\oyunproje\WinKelime\WinKelime\obj\x86\Debug\WinKelime.application
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.pdb
+C:\Users\Sony\Documents\WinKelime\WinKelime\bin\Debug\WinKelime.exe.manifest
+C:\Users\Sony\Documents\WinKelime\WinKelime\bin\Debug\WinKelime.application
+C:\Users\Sony\Documents\WinKelime\WinKelime\bin\Debug\WinKelime.exe
+C:\Users\Sony\Documents\WinKelime\WinKelime\bin\Debug\WinKelime.pdb
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Form1.resources
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.GirisSayfasi.resources
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Properties.Resources.resources
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.TasiyiciForm.resources
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.YeniKullaniciForm.resources
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csproj.GenerateResource.Cache
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe.manifest
+C:\Users\Sony\Documents\WinKelime\WinKelime\obj\x86\Debug\WinKelime.application
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.pdb
+C:\WinKelime\WinKelime\bin\Debug\WinKelime.exe.manifest
+C:\WinKelime\WinKelime\bin\Debug\WinKelime.application
+C:\WinKelime\WinKelime\bin\Debug\WinKelime.exe
+C:\WinKelime\WinKelime\bin\Debug\WinKelime.pdb
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csprojResolveAssemblyReference.cache
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Form1.resources
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.GirisSayfasi.resources
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Properties.Resources.resources
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.TasiyiciForm.resources
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.YeniKullaniciForm.resources
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csproj.GenerateResource.Cache
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe.manifest
+C:\WinKelime\WinKelime\obj\x86\Debug\WinKelime.application
+C:\Users\Sony\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe
+C:\Users\Sony\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.pdb
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Form1.resources
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.GirisSayfasi.resources
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.Properties.Resources.resources
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.TasiyiciForm.resources
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.YeniKullaniciForm.resources
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.pdb
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\bin\Debug\WinKelime.exe.manifest
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\bin\Debug\WinKelime.application
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\bin\Debug\WinKelime.exe
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\bin\Debug\WinKelime.pdb
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.exe.manifest
+C:\Users\asus\Desktop\Yazılım Dersleri\WinKelime\WinKelime\WinKelime\obj\x86\Debug\WinKelime.application
